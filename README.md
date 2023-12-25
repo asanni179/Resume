@@ -12,6 +12,8 @@ Charismatic and detail-oriented data scientist with a background in Agricultural
 - **Statistical Analysis:** Hypothesis testing, Regression Analysis
 
 ## Education
+- **Data Science**
+  [GoMyCode](https://learn.gomycode.co/)
 - **B.Eng. Agricultural & Bio-System Engineering**
   University of Ilorin, 2012-2017
 
@@ -36,6 +38,7 @@ Charismatic and detail-oriented data scientist with a background in Agricultural
 ## Connect with Me
 - LinkedIn: [Sanni Adam](https://www.linkedin.com/in/sanniadam)
 - Email: [asanni179@gmail.com](mailto:asanni179@gmail.com)
+- Github: asanni179
 
 Let's transform data into meaningful insights! 📊✨
 
